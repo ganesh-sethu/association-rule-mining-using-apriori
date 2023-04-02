@@ -1,4 +1,5 @@
-#Market Basket Analysis using Association Rule Mining with Apriori Algorithm
+# Market Basket Analysis using Association Rule Mining with Apriori Algorithm
+
 This project is a Python implementation of Market Basket Analysis using Association Rule Mining with the Apriori Algorithm. Market Basket Analysis is a technique used by retailers to understand which items are purchased together by customers. This information can be used to optimize product placement, marketing, and pricing strategies.
 
 Association Rule Mining is a technique used to identify patterns in data. It involves identifying sets of items that frequently occur together and then generating rules that express the likelihood of a certain item being purchased given that another item has already been purchased. The Apriori Algorithm is one of the most popular algorithms for Association Rule Mining.
